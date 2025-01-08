@@ -3,7 +3,10 @@ layout: cv
 title: Henrique Pagno de Lima's CV
 ---
 # Henrique Pagno de Lima
+
 Software Engineer | C# .Net | PL/SQL | ReactJS
+
+Caxias do Sul, Brazil
 
 <div id="webaddress">
 <a href="henriquepagno@gmail.com">henriquepagno@gmail.com</a>
@@ -53,9 +56,13 @@ English Course
 
 ## Occupation
 
+`DECEMBER 2025 - CURRENTLY`
+__EximiaCo__, Brazil
+Senior Software Engineer
+
 `JANUARY 2023 - DECEMBER 2024`
 __Cyncly__, Brazil
-Senior Software Enginee
+Senior Software Engineer
 
 `FEBRUARY 2021 - JANUARY 2023`
 __Focco Sistemas de Gestão__, Brazil
@@ -77,7 +84,7 @@ Oracle Developer
 __Effective Software LTDA__, Brazil
 Oracle Developer
 
-### LANGUAGES
+## LANGUAGES
 
 __Portuguese__
 Native Language
