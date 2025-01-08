@@ -9,7 +9,7 @@ Caxias do Sul, Brazil
 
 <div id="webaddress">
 <a href="henriquepagno@gmail.com">henriquepagno@gmail.com</a>
-| <a href="linkedin.com/in/henrique-pagno-de-lima/?locale=en_US">LinkedIn</a>
+| <a href="https://linkedin.com/in/henrique-pagno-de-lima/?locale=en_US">LinkedIn</a>
 | <a href="https://github.com/henriquepagno/">Github</a>
 </div>
 
