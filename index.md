@@ -1,91 +1,93 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Henrique Pagno de Lima's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Henrique Pagno de Lima
+Software Engineer | C# .Net | PL/SQL | ReactJS
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="henriquepagno@gmail.com">henriquepagno@gmail.com</a>
+| <a href="linkedin.com/in/henrique-pagno-de-lima/?locale=en_US">LinkedIn</a>
+| <a href="https://github.com/henriquepagno/">Github</a>
 </div>
 
+## Summary
 
-## Currently
+Senior Software Developer with 14+ years of expertise in enterprise ERP systems, serving thousands of daily users. Specialized in full-stack development with deep knowledge of .NET ecosystem and Oracle technologies. Proven track record of delivering robust, scalable solutions and optimizing database performance for large-scale applications. Combining strong technical expertise with agile methodologies to deliver robust, scalable solutions. 
 
-Standing on the shoulders of giants
+## Technical Skills
 
-### Specialized in
+C# .Net Framework; Oracle; PL/SQL
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+JavaScript; Node.js; ReactJS
 
+CSS; SASS
 
-### Research interests
+SOLID; Design Patterns
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Containers; Docker
+
+SCRUM; Kanban
+
+TFS; Git
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-2020`
+__Rocketseat__, Brazil
+Bootcamp GoStack: Node.js, ReactJS and React Native
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2010 - 2017`
+__University of Caxias do Sul__, Brazil
+Computer Science Bachelor Degree
 
-- Sizar
+`2007 - 2009`
+__CETEC__, Brazil
+Software Development Technical Course
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2000 - 2006`
+__Wizard__, Brazil
+English Course
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`JANUARY 2023 - DECEMBER 2024`
+__Cyncly__, Brazil
+Senior Software Enginee
 
-- Warden
-- Minted coins
+`FEBRUARY 2021 - JANUARY 2023`
+__Focco Sistemas de Gestão__, Brazil
+Software Engineer
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`OCTOBER 2020 - FEBRUARY 2021`
+__Mout'S | IT Solutions__, Brazil
+Software Engineer
 
+`AUGUST 2015 - OCTOBER 2020`
+__Focco Sistemas de Gestão__, Brazil
+Software Engineer
+
+`APRIL 2012 - AUGUST 2015`
+__Focco Sistemas de Gestão__, Brazil
+Oracle Developer
+
+`JANUARY 2010 - JANUARY 2012`
+__Effective Software LTDA__, Brazil
+Oracle Developer
+
+### LANGUAGES
+
+__Portuguese__
+Native Language
+
+__English__
+Advanced
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2025 -->
 
 
