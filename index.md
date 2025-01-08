@@ -3,9 +3,7 @@ layout: cv
 title: Henrique Pagno de Lima's CV
 ---
 # Henrique Pagno de Lima
-
 Software Engineer | C# .Net | PL/SQL | ReactJS
-
 Caxias do Sul, Brazil
 
 <div id="webaddress">
