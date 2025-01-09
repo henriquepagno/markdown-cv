@@ -32,7 +32,12 @@ To transform your plain text CV into a beautiful and shareable HTML page, you ha
 
 Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
 
-### II. Build it locally and print a PDF
+### II. Generate a PDF through wkhtmltopdf
+
+1. Install [wkhtmltopdf](https://wkhtmltopdf.org/).
+2. Generate through command line: `wkhtmltopdf.exe https://henriquepagno.github.io/markdown-cv/ cv.pdf`
+
+### III. Build it locally and print a PDF
 
 1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
 3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
