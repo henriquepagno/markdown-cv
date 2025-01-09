@@ -1,5 +1,4 @@
 ---
-layout: cv
 title: Henrique Pagno de Lima's CV
 ---
 # Henrique Pagno de Lima
@@ -15,7 +14,8 @@ Caxias do Sul, Brazil
 
 ## Summary
 
-Senior Software Developer with 14+ years of expertise in enterprise ERP systems, serving thousands of daily users. Specialized in full-stack development with deep knowledge of .NET ecosystem and Oracle technologies. Proven track record of delivering robust, scalable solutions and optimizing database performance for large-scale applications. Combining strong technical expertise with agile methodologies to deliver robust, scalable solutions. 
+Senior Software Developer with 14+ years of expertise in enterprise ERP systems, serving thousands of daily users. Specialized in full-stack development with deep knowledge of .NET ecosystem and Oracle technologies. Proven track record of delivering robust, scalable solutions and optimizing database performance for large-scale applications. Combining strong technical expertise with agile methodologies to deliver robust, scalable solutions.
+
 
 ## Technical Skills
 
@@ -41,18 +41,21 @@ __Rocketseat__, Brazil
 
 Bootcamp GoStack: Node.js, ReactJS and React Native
 
+<br/>
 
 `2010 - 2017`
 __University of Caxias do Sul__, Brazil
 
 Computer Science Bachelor Degree
 
+<br/>
 
 `2007 - 2009`
 __CETEC__, Brazil
 
 Software Development Technical Course
 
+<br/>
 
 `2000 - 2006`
 __Wizard__, Brazil
@@ -67,36 +70,42 @@ __EximiaCo__, Brazil
 
 Senior Software Engineer
 
+<br/>
 
 `JANUARY 2023 - DECEMBER 2024`
 __Cyncly__, Brazil
 
 Senior Software Engineer
 
+<br/>
 
 `FEBRUARY 2021 - JANUARY 2023`
 __Focco Sistemas de Gestão__, Brazil
 
 Software Engineer
 
+<br/>
 
 `OCTOBER 2020 - FEBRUARY 2021`
 __Mout'S | IT Solutions__, Brazil
 
 Software Engineer
 
+<br/>
 
 `AUGUST 2015 - OCTOBER 2020`
 __Focco Sistemas de Gestão__, Brazil
 
 Software Engineer
 
+<br/>
 
 `APRIL 2012 - AUGUST 2015`
 __Focco Sistemas de Gestão__, Brazil
 
 Oracle Developer
 
+<br/>
 
 `JANUARY 2010 - JANUARY 2012`
 __Effective Software LTDA__, Brazil
