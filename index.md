@@ -14,7 +14,7 @@ Software Engineer | C# .Net | PL/SQL | ReactJS
 
 ## Summary
 
-With 14+ years of experience in designing, developing, and maintaining enterprise applications serving thousands of daily users, I specialize in full-stack development within the .NET ecosystem and Oracle technologies. My expertise includes building scalable, high-performance solutions and optimizing database performance for large-scale applications. I have a proven track record of delivering reliable and efficient software solutions, leveraging my deep technical knowledge and strong understanding of agile methodologies. I'm committed to collaborating within organized, team-oriented environments to drive business success.
+With 14+ years of experience in designing, developing, and maintaining enterprise applications serving thousands of daily users, I specialize in full-stack development within the .NET ecosystem and Oracle technologies. I have extensive experience working with ERP systems, particularly within the commercial module, and my expertise spans building scalable, high-performance solutions and optimizing database performance for large-scale applications. I have a proven track record of delivering reliable and efficient software solutions, leveraging my deep technical knowledge and strong understanding of agile methodologies. I'm committed to collaborating within organized, team-oriented environments to drive business success.
 
 
 ### Location
@@ -37,6 +37,29 @@ Containers; Docker
 SCRUM; Kanban
 
 TFS; Git
+
+
+## Technical Skills
+
+### Backend
+
+C# .Net; Oracle; PL/SQL; Node.js
+
+### Frontend
+
+JavaScript; ReactJS; CSS; SASS
+
+### Tools
+
+Git; TFS; Containerization; Docker
+
+### Project Management & Methodologies
+
+SCRUM; Kanban; TFS/Azure Boards; Code Review; Technical Documentation
+
+### Architecture & Best Practices
+
+Design Patterns; SOLID Principles
 
 
 ## Education
