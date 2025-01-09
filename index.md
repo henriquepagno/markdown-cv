@@ -23,7 +23,7 @@ Caxias do Sul, Brazil
 
 
 ## Technical Skills
-
+<br/>
 
 ### Backend
 
@@ -75,7 +75,7 @@ __Wizard__, Brazil
 English Course
 
 
-## Occupation
+## Experience
 
 `December 2024 - Currently`
 __EximiaCo__, Brazil
