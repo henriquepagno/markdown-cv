@@ -5,13 +5,16 @@ title: Henrique Pagno de Lima
 # Henrique Pagno de Lima
 Software Engineer | C# .Net | PL/SQL | ReactJS
 
-Caxias do Sul, Brazil
-
 <div id="webaddress">
 <a href="mailto:henriquepagno@gmail.com">henriquepagno@gmail.com</a>
 | <a href="https://linkedin.com/in/henrique-pagno-de-lima/?locale=en_US">LinkedIn</a>
 | <a href="https://github.com/henriquepagno/">Github</a>
 </div>
+
+## Location
+
+Caxias do Sul, Brazil
+
 
 ## Summary
 
@@ -70,6 +73,9 @@ English Course
 __EximiaCo__, Brazil
 
 Senior Software Engineer
+<br/>
+
+- Working as an outsourced .Net developer in critical applications focused in performance and refactoring.
 
 <br/>
 
@@ -77,6 +83,11 @@ Senior Software Engineer
 __Cyncly__, Brazil
 
 Senior Software Engineer
+<br/>
+
+- Lead senior developer of the squad;
+- Code review of others developers of the squad;
+- Assisting in definitions of the software structure.
 
 <br/>
 
@@ -84,6 +95,13 @@ Senior Software Engineer
 __Focco Sistemas de Gestão__, Brazil
 
 Software Engineer
+<br/>
+
+- Development and maintenance of an ERP system;
+- Agile solutions to customers critic situations, with great focus on
+Commercial module of an ERP system;
+- Development of minor improvements to the system, many of which
+were regarding performance in SQL and PL/SQL.
 
 <br/>
 
@@ -91,6 +109,9 @@ Software Engineer
 __Mout'S | IT Solutions__, Brazil
 
 Software Engineer
+<br/>
+
+- Full stack developer allocated in Philips Clinical Informatics TWS (Tasy Web Suite) project.
 
 <br/>
 
@@ -98,6 +119,10 @@ Software Engineer
 __Focco Sistemas de Gestão__, Brazil
 
 Software Engineer
+<br/>
+
+- Development and maintenance of an ERP system;
+- Knowledge with Sales and Invoice applications.
 
 <br/>
 
