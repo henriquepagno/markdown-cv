@@ -11,14 +11,15 @@ Software Engineer | C# .Net | PL/SQL | ReactJS
 | <a href="https://github.com/henriquepagno/">Github</a>
 </div>
 
-## Location
-
-Caxias do Sul, Brazil
-
 
 ## Summary
 
-Senior Software Developer with 14+ years of expertise in enterprise ERP systems, serving thousands of daily users. Specialized in full-stack development with deep knowledge of .NET ecosystem and Oracle technologies. Proven track record of delivering robust, scalable solutions and optimizing database performance for large-scale applications. Combining strong technical expertise with agile methodologies to deliver robust, scalable solutions.
+With 14+ years of experience in designing, developing, and maintaining enterprise applications serving thousands of daily users, I specialize in full-stack development within the .NET ecosystem and Oracle technologies. My expertise includes building scalable, high-performance solutions and optimizing database performance for large-scale applications. I have a proven track record of delivering reliable and efficient software solutions, leveraging my deep technical knowledge and strong understanding of agile methodologies. I'm committed to collaborating within organized, team-oriented environments to drive business success.
+
+
+### Location
+
+Caxias do Sul, Brazil
 
 
 ## Technical Skills
@@ -73,9 +74,10 @@ English Course
 __EximiaCo__, Brazil
 
 Senior Software Engineer
+
 <br/>
 
-- Working as an outsourced .Net developer in critical applications focused in performance and refactoring.
+- Working as an outsourced .Net developer in critical projects for clients, focused in performance and refactoring.
 
 <br/>
 
@@ -83,6 +85,7 @@ Senior Software Engineer
 __Cyncly__, Brazil
 
 Senior Software Engineer
+
 <br/>
 
 - Lead senior developer of the squad;
@@ -95,6 +98,7 @@ Senior Software Engineer
 __Focco Sistemas de Gestão__, Brazil
 
 Software Engineer
+
 <br/>
 
 - Development and maintenance of an ERP system;
@@ -109,6 +113,7 @@ were regarding performance in SQL and PL/SQL.
 __Mout'S | IT Solutions__, Brazil
 
 Software Engineer
+
 <br/>
 
 - Full stack developer allocated in Philips Clinical Informatics TWS (Tasy Web Suite) project.
@@ -119,6 +124,7 @@ Software Engineer
 __Focco Sistemas de Gestão__, Brazil
 
 Software Engineer
+
 <br/>
 
 - Development and maintenance of an ERP system;
