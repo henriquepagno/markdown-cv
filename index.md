@@ -66,49 +66,49 @@ English Course
 
 ## Occupation
 
-`DECEMBER 2024 - CURRENTLY`
+`December 2024 - Currently`
 __EximiaCo__, Brazil
 
 Senior Software Engineer
 
 <br/>
 
-`JANUARY 2023 - DECEMBER 2024`
+`January 2023 - December 2024`
 __Cyncly__, Brazil
 
 Senior Software Engineer
 
 <br/>
 
-`FEBRUARY 2021 - JANUARY 2023`
+`February 2021 - January 2023`
 __Focco Sistemas de Gestão__, Brazil
 
 Software Engineer
 
 <br/>
 
-`OCTOBER 2020 - FEBRUARY 2021`
+`October 2020 - February 2021`
 __Mout'S | IT Solutions__, Brazil
 
 Software Engineer
 
 <br/>
 
-`AUGUST 2015 - OCTOBER 2020`
+`August 2015 - October 2020`
 __Focco Sistemas de Gestão__, Brazil
 
 Software Engineer
 
 <br/>
 
-`APRIL 2012 - AUGUST 2015`
+`April 2012 - August 2015`
 __Focco Sistemas de Gestão__, Brazil
 
 Oracle Developer
 
 <br/>
 
-`JANUARY 2010 - JANUARY 2012`
+`January 2010 - January 2012`
 __Effective Software LTDA__, Brazil
 
 Oracle Developer
