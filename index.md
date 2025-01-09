@@ -24,26 +24,10 @@ Caxias do Sul, Brazil
 
 ## Technical Skills
 
-C# .Net Framework; Oracle; PL/SQL
-
-JavaScript; Node.js; ReactJS
-
-CSS; SASS
-
-SOLID; Design Patterns
-
-Containers; Docker
-
-SCRUM; Kanban
-
-TFS; Git
-
-
-## Technical Skills
 
 ### Backend
 
-C# .Net; Oracle; PL/SQL; Node.js
+C# (.NET Framework, .NET Core); Oracle; PL/SQL; Node.js; RESTful APIs, Web Services
 
 ### Frontend
 
