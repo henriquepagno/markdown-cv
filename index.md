@@ -3,7 +3,7 @@ layout: cv
 title: Henrique Pagno de Lima
 ---
 # Henrique Pagno de Lima
-Software Engineer | C# .Net | PL/SQL | ReactJS
+Software Engineer
 
 <div id="webaddress">
 <a href="mailto:henriquepagno@gmail.com">henriquepagno@gmail.com</a>
