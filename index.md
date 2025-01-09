@@ -1,4 +1,5 @@
 ---
+layout: cv
 title: Henrique Pagno de Lima's CV
 ---
 # Henrique Pagno de Lima
