@@ -66,7 +66,7 @@ English Course
 
 ## Occupation
 
-`DECEMBER 2025 - CURRENTLY`
+`DECEMBER 2024 - CURRENTLY`
 __EximiaCo__, Brazil
 
 Senior Software Engineer
