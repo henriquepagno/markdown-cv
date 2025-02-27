@@ -138,6 +138,10 @@ Software Engineer
 `April 2012 - August 2015`
 __Focco Sistemas de Gestão__, Brazil
 
+Oracle Developer
+
+<br/>
+
 - Development in Oracle PL/SQL, .NET, C# and VB;
 - Use of agile methodologies such as Scrum and Kanban;
 - Analysis and requirements gathering to projects regarding the ERP system as well specific client necessities;
@@ -150,6 +154,10 @@ __Focco Sistemas de Gestão__, Brazil
 
 `January 2010 - January 2012`
 __Effective Software LTDA__, Brazil
+
+Oracle Developer
+
+<br/>
 
 - Developed and maintained functionalities for an ERP system used by hundreds of clients and thousands of users;
 - Created and optimized SQL queries and PL/SQL procedures to enhance system performance and reliability;
