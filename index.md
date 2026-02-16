@@ -1,12 +1,17 @@
 ---
-title: "Henrique Pagno de Lima - Curriculum Vitae"
 author: "Henrique Pagno de Lima"
 ---
 
 # Henrique Pagno de Lima
 Senior Software Engineer
 
-Email: henriquepagno@gmail.com | LinkedIn: https://linkedin.com/in/henrique-pagno-de-lima/?locale=en_US | GitHub: https://github.com/henriquepagno | Location: Caxias do Sul, Brazil
+Email: [henriquepagno@gmail.com](mailto:henriquepagno@gmail.com)  
+LinkedIn: https://linkedin.com/in/henrique-pagno-de-lima/?locale=en_US  
+GitHub: https://github.com/henriquepagno
+
+## Location
+
+Caxias do Sul, Brazil
 
 ## Summary
 
