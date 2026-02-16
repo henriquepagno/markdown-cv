@@ -19,15 +19,7 @@ Software Engineer with 16 years of experience working with .NET, C#, ReactJS, PL
 
 ## Technical Skills
 
-- Azure Service Bus
-- Azure Storage Account
-- Microsoft SQL Server
-- Languages and Frameworks: .NET, C#, ReactJS, PL/SQL, Oracle, JavaScript, SQL, CSS, SASS, MobX, Redux
-- Databases: Oracle Database, Microsoft SQL Server
-- Frontend: ReactJS, CSS, SASS, MobX, Redux
-- Architecture and Practices: SOLID principles, design patterns, RESTful APIs, Unit Testing, performance optimization
-- Tools and Platforms: Git, Microsoft TFS, Docker, Azure DevOps, Kubernetes, RabbitMQ
-- Methodologies: Scrum, Kanban
+Azure Service Bus, Azure Storage Account, Microsoft SQL Server, .NET, C#, ReactJS, PL/SQL, Oracle, JavaScript, SQL, CSS, SASS, MobX, Redux, SOLID principles, design patterns, RESTful APIs, Unit Testing, Docker, Git, Microsoft TFS, Azure DevOps, Kubernetes, RabbitMQ
 
 ## Experience
 
