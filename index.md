@@ -6,7 +6,7 @@ author: "Henrique Pagno de Lima"
 Senior Software Engineer
 
 Email: [henriquepagno@gmail.com](mailto:henriquepagno@gmail.com)  
-LinkedIn: https://linkedin.com/in/henrique-pagno-de-lima/?locale=en_US  
+LinkedIn: https://linkedin.com/in/henrique-pagno-de-lima
 GitHub: https://github.com/henriquepagno
 
 ## Location
