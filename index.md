@@ -15,17 +15,18 @@ Caxias do Sul, Brazil
 
 ## Summary
 
-- Software Engineer with over 14 years of experience designing, developing, and optimizing high-usage, mission-critical applications.
-- Strong background in C#, .NET, ReactJS, JavaScript, SQL, and Oracle PL/SQL, with a consistent focus on performance, scalability, and clean architecture.
-- Experienced in agile environments (Scrum, Kanban), mentoring developers, and collaborating with cross-functional teams to deliver high-quality solutions.
+Software Engineer with 16 years of experience working with .NET, C#, ReactJS, PL/SQL, and Oracle, developing scalable and high-performing software solutions used by thousands of users across ERP systems, WMS and TMS integrations, corporate systems for an insurance company, and healthcare systems. Passionate about building innovative applications, solving complex problems, and delivering impactful technology in fast-paced environments. I specialize in designing and optimizing systems with a strong foundation in database modeling, performance tuning, and best practices to ensure efficiency and reliability. With expertise in modern development methodologies like Scrum and Kanban, I effectively manage projects while maintaining high-quality standards and timely delivery. Skilled in tools such as Git, Microsoft TFS, Azure DevOps, and Docker, I excel in both individual and collaborative settings. My recent experience also includes working with container orchestration using Kubernetes and implementing reliable asynchronous communication with message queues (primarily RabbitMQ and Azure Service Bus). Recognized for merging technical excellence with a results-driven mindset, I am always eager to embrace new challenges, learn cutting-edge technologies, and contribute to user-focused software solutions that make an impact.
 
 ## Technical Skills
 
-- Languages and Frameworks: C#, .NET, JavaScript, ReactJS, TypeScript, SQL, PL/SQL
-- Databases: Oracle Database
+- Azure Service Bus
+- Azure Storage Account
+- Microsoft SQL Server
+- Languages and Frameworks: .NET, C#, ReactJS, PL/SQL, Oracle, JavaScript, SQL, CSS, SASS, MobX, Redux
+- Databases: Oracle Database, Microsoft SQL Server
 - Frontend: ReactJS, CSS, SASS, MobX, Redux
-- Architecture and Practices: SOLID principles, design patterns, RESTful APIs, performance optimization
-- Tools and Platforms: Git, Microsoft TFS, Docker
+- Architecture and Practices: SOLID principles, design patterns, RESTful APIs, Unit Testing, performance optimization
+- Tools and Platforms: Git, Microsoft TFS, Docker, Azure DevOps, Kubernetes, RabbitMQ
 - Methodologies: Scrum, Kanban
 
 ## Experience
@@ -34,9 +35,15 @@ Caxias do Sul, Brazil
 **December 2024 – Present**
 
 - Work as an outsourced Software Engineer specializing in .NET, focusing on performance projects and the restructuring of critical applications.
-- Identify and implement improvements to optimize the performance of essential systems, reducing processing times and increasing efficiency.
-- Restructure legacy applications by applying best architecture practices and design patterns to enhance maintainability and scalability.
-- Work with .NET, PL/SQL, and databases to deliver robust and efficient solutions.
+- Led the restructuring of a critical Risk Calculation Engine for an insurance company, transforming a slow, synchronous, job-based process into a scalable, asynchronous, containerized architecture running on Kubernetes.
+- Designed and implemented workflow orchestration with Workflow Core, enabling horizontal scalability and eliminating thread starvation under high loads.
+- Introduced caching strategies (auth tokens, internal API results) and data validation controls, significantly reducing redundant calls and improving performance.
+- Enhanced CI/CD pipelines, added unit and integration tests, and improved system documentation, raising code quality and deployment reliability.
+- Delivered measurable business impact of over 700% improvement in processing performance, with far fewer manual interventions and a smoother user experience for compliance and product teams.
+- Implemented a regulatory-compliant API enabling insurance-held assets to be used as loan guarantees.
+- Designed an event-driven, microservices-oriented architecture using Azure Service Bus and Azure Storage for asynchronous processing and secure document handling.
+- Developed independently deployable .NET worker services, each consuming a dedicated queue and scaling horizontally on Kubernetes.
+- Added OpenTelemetry for distributed tracing and observability, and persisted data in SQL Server for auditability and reliability.
 
 ### Senior Software Engineer | Cyncly, Brazil
 **January 2023 – December 2024**
@@ -114,5 +121,5 @@ Caxias do Sul, Brazil
 
 ## Languages
 
-- Portuguese – Native
-- English – Advanced
+- Português – Native or Bilingual
+- Inglês – Professional Working
