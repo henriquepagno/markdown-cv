@@ -1,0 +1,31 @@
+name: Build ATS CV PDF
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base
+
+      - name: Generate CV PDF with Pandoc
+        run: |
+          pandoc index.md -o Henrique-Pagno-de-Lima-CV.pdf --pdf-engine=pdflatex -V geometry:margin=1in
+
+      - name: Upload CV PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Henrique-Pagno-de-Lima-CV
+          path: Henrique-Pagno-de-Lima-CV.pdf
+
